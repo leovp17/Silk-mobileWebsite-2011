@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.boxBody div {
+	display:none;
+}
+.boxBody div.show {
+	display:block;
+}
+.boxBody #category a {
+	display:block;
+}
+.boxBody div li span {
+	font-size:8px;
+	font-style:italic;
+	color:#888;
+}
